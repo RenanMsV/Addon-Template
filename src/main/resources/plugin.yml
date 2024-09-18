@@ -4,7 +4,7 @@ name: SlimefunAddon
 ## CHANGE this to your username.
 author: CHANGEME
 
-## CHANGE this to a meaninful but short description of your plugin.
+## CHANGE this to a meaningful but short description of your plugin.
 description: A generic Slimefun4-Addon
 
 ## CHANGE this to the path of the class that extends JavaPlugin.
